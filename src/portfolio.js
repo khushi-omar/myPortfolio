@@ -26,7 +26,7 @@ const greeting = {
     "Dynamic third-year B.Tech student specializing in IoT and Cybersecurity, passionate about web development, software engineering, and fostering collaborative, tech-driven solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1DG62nMaRGizBwiSOrpJEXcD2gRDjAPSv/view?usp=sharing",
-  portfolio_repository: "#",
+  portfolio_repository: "https://github.com/khushi-omar?tab=repositories",
   githubProfile: "https://github.com/khushi-omar",
 };
 
