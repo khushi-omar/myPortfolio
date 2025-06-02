@@ -67,6 +67,32 @@
       ]
     },
     {
+      "id": "R_kgDOO0oRQg",
+      "name": "myPortfolio",
+      "createdAt": "2025-06-02T11:11:23Z",
+      "url": "https://github.com/khushi-omar/myPortfolio",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOMqVt_Q",
       "name": "News-Project",
       "createdAt": "2024-08-30T04:51:31Z",
