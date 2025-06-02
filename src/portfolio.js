@@ -253,7 +253,7 @@ const degrees = {
     {
       title: "Dr. Virendra Swarup Education Centre",
       subtitle: "Xth (ICSE) and XIIth (ICSE)",
-      logo_path: "iiitk_logo.png",
+      logo_path: "vsec.png",
       alt_name: "DVSEC",
       duration: "2019 - 2022",
       descriptions: [
@@ -267,7 +267,7 @@ const degrees = {
       title: "Amity University, Noida, Uttar Pradesh",
       subtitle:
         "B.Tech in Computer Science (IoT and Cybersecurity including Blockchain)",
-      logo_path: "iu_logo.png",
+      logo_path: "Amity.png",
       alt_name: "Amity University",
       duration: "2022 - 2026",
       descriptions: [
@@ -286,43 +286,43 @@ const certifications = {
     {
       title: "Web Design in HTML and CSS",
       subtitle: "- Udemy",
-      logo_path: "stanford_logo.png",
+      logo_path: "udemy.png",
       certificate_link:
         "https://drive.google.com/file/d/1VaxDAaAbsp5G2EYzlX49yMIEnUVs4Slo/view?usp=sharing",
       alt_name: "Udemy",
-      color_code: "#A435F0",
+      color_code: "#1BA0D7",
     },
     {
       title: "Python for Data Science",
       subtitle: "- NPTEL",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "nptel.png",
       certificate_link:
         "https://drive.google.com/file/d/1bA4vPreyoqmJK_rJlSPaGM3vkDk2yD0v/view?usp=sharing",
       alt_name: "NPTEL",
-      color_code: "#FFBB0099",
+      color_code: "#1BA0D7",
     },
     {
       title: "The Modern JavaScript Bootcamp Course",
       subtitle: "- Udemy",
-      logo_path: "google_logo.png",
+      logo_path: "udemy.png",
       certificate_link:
         "https://drive.google.com/file/d/16MHZZXmx3V8QFexmLctKcXL1jBbDm6uY/view?usp=sharing",
       alt_name: "Udemy",
-      color_code: "#A435F0",
+      color_code: "#1BA0D7",
     },
     {
       title: "Introduction to Internet Of Things",
       subtitle: "- NPTEL",
-      logo_path: "ibm_logo.png",
+      logo_path: "nptel.png",
       certificate_link:
         "https://drive.google.com/file/d/1R91-HyIroymo-Bfvcj3xR5OkGL3umdmS/view?usp=sharing",
       alt_name: "NPTEL",
-      color_code: "#FFBB0099",
+      color_code: "#1BA0D7",
     },
     {
       title: "Introduction to Networks",
       subtitle: "- CCNA",
-      logo_path: "ibm_logo.png",
+      logo_path: "ccna.png",
       certificate_link:
         "https://drive.google.com/file/d/1v6lVREzdLvT6lx634YxsAj38jZ5D9Arn/view?usp=sharing",
       alt_name: "Cisco",
@@ -331,11 +331,11 @@ const certifications = {
     {
       title: "Data Structures in Java",
       subtitle: "- Udemy",
-      logo_path: "microsoft_logo.png",
+      logo_path: "udemy.png",
       certificate_link:
         "https://drive.google.com/file/d/1cEUAof_-NpmjIWDmV9TkT5s3AkVmVI8F/view?usp=sharing",
       alt_name: "Udemy",
-      color_code: "#A435F0",
+      color_code: "#1BA0D7",
     },
   ],
 };
@@ -356,7 +356,7 @@ const experience = {
           title: "Web Development Intern",
           company: "CodSoft",
           company_url: "https://codsoft.in/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "codsoft.jpg",
           duration: "May 2024 – July 2024",
           location: "Remote",
           description:
@@ -372,7 +372,7 @@ const experience = {
           title: "President",
           company: "GeeksforGeeks Student Chapter, Amity University Noida",
           company_url: "https://www.geeksforgeeks.org/",
-          logo_path: "legato_logo.png",
+          logo_path: "gfg.jpg",
           duration: "2024 – Present",
           location: "Noida, India",
           description:
@@ -383,7 +383,7 @@ const experience = {
           title: "Public Relations and Marketing Head",
           company: "GeeksforGeeks Student Chapter, Amity University Noida",
           company_url: "https://www.geeksforgeeks.org/",
-          logo_path: "muffito_logo.png",
+          logo_path: "gfg.jpg",
           duration: "2023 – 2024",
           location: "Noida, India",
           description:
@@ -394,7 +394,7 @@ const experience = {
           title: "Content Team Member",
           company: "GDSC IINTM X GDSC Amity University Noida",
           company_url: "https://developers.google.com/community/gdsc",
-          logo_path: "freecopy_logo.png",
+          logo_path: "gdsc.png",
           duration: "2023",
           location: "Remote",
           description:
@@ -410,7 +410,7 @@ const experience = {
           title: "Organizer – Netflix Code Heist",
           company: "GeeksforGeeks Student Chapter",
           company_url: "https://www.geeksforgeeks.org/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "gfg.jpg",
           duration: "2024",
           location: "Amity University Noida",
           description:
@@ -421,7 +421,7 @@ const experience = {
           title: "Participant – AMIMUN (UNHCR Committee)",
           company: "Amity University",
           company_url: "https://www.amity.edu/",
-          logo_path: "intel_logo.jpg",
+          logo_path: "Amity.png",
           duration: "2024",
           location: "Noida, India",
           description:
@@ -432,7 +432,7 @@ const experience = {
           title: "Hackathon Participant & Organizer",
           company: "Various Events",
           company_url: "#",
-          logo_path: "google_logo.png",
+          logo_path: "Amity.png",
           duration: "2023 – 2025",
           location: "Amity University Noida",
           description:
