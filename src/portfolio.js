@@ -353,6 +353,16 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Software Developer Intern",
+          company: "W3Villa Technologies",
+          company_url: "https://www.w3villa.com/",
+          logo_path: "w3logo.png",
+          duration: "May 2025 – July 2025",
+          location: "On-Site",
+          description: "Cucumber/Selenium testing",
+          color: "#000000",
+        },
+        {
           title: "Web Development Intern",
           company: "CodSoft",
           company_url: "https://codsoft.in/",
@@ -507,7 +517,7 @@ const contactPageData = {
     //postalCode: "95129",
     streetAddress: "117/Q/137, sharda nagar, Kanpur",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/9Pn8KKtJHx7Ugkmh8",
+    location_map_link: "#",
   },
   phoneSection: {
     title: "",
